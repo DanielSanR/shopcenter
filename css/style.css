@@ -1181,6 +1181,22 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 .blog-reply-form textarea {
 	height:90px;
 }
+.ser-tp {
+    margin-bottom: 2em;
+}
+.ser-rt {
+    float: left;
+    width: 36%;
+}
+.ser-lt {
+    float: right;
+    width: 62%;
+}
+ 
+.col-md-8 {
+    width: 66.66666667%;
+}
+
 
 /*------------------------------------*\
 	Responsive
