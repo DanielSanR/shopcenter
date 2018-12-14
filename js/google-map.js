@@ -1,5 +1,5 @@
-var position = { lat: 40.730610 , lng: -73.935242 }	
-
+var position = { lat: 34.604150 , lng: -58.408563 }	
+ 
 // Map style
 var style = [
     {
@@ -207,10 +207,11 @@ var options = {
 }
 
 // Init Map
-var map = new google.maps.Map( document.getElementById('contact-map') , options);
-
+var map = new google.maps.Map( document.getElementById('contact-map') , options); 
 // Set map marker
 var marker = new google.maps.Marker({
     position: position,
-    map: map,
+    map: map
 });
+
+ 
