@@ -111,6 +111,22 @@ blockquote:before{
 
 
 /* --- Section --- */
+.google-maps {
+        position: relative;
+        padding-bottom: 75%;
+        height: 0;
+        overflow: hidden;
+    }
+    .google-maps iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 80% !important;
+        height: 80% !important;
+        border:0;
+    }
+
+
 .section {
 	position:relative;
 	padding-top:80px;
