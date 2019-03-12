@@ -1,15 +1,12 @@
-/*
+ /*
 Template Name: HTML Education Template
 Author: yaminncco
-
 Colors:
 	Body 		: #798696
 	Headers 	: #374050
 	Primary 	: #FF6700
 	Grey 		: #EBEBEB
-
 Fonts: Lato & Montserrat
-
 Table OF Contents
 ------------------------------------
 1 > General
@@ -751,7 +748,7 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 }
 
 .footer-social li a.twitter {
-	background-color:#55acee;
+	background-color:#128C7E;
 }
 
 .footer-social li a.google-plus {
@@ -1114,7 +1111,7 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 }
 
 .blog-share a.twitter {
-	background-color:#55acee;
+	background-color:#128C7E;
 }
 
 .blog-share a.google-plus {
